@@ -1,27 +1,27 @@
 [
     {
         "imageName": "img 1",
-        "URL": "img/aaron-burden-v0HbU2CNJFs-unsplash.jpg"
+        "URL": "img/img1.jpg"
     },
 
     {
         "imageName": "img 2",
-        "URL": "img/annie-spratt-thI_CZAB0MY-unsplash.jpg"
+        "URL": "img/img2.jpg"
     },
 
     {
         "imageName": "img 3",
-        "URL": "img/jaredd-craig-HH4WBGNyltc-unsplash.jpg"
+        "URL": "img/img3.jpg"
     },
 
     {
         "imageName": "img 4",
-        "URL": "img/kyle-glenn-gcw_WWu_uBQ-unsplash.jpg"
+        "URL": "img/img4.jpg"
     },
 
     {   
         "imageName": "img 5",
-        "URL": "img/rachel-coyne-b9H8UVGObNo-unsplash.jpg"
+        "URL": "img/img5.jpg"
     }
 ]
 
